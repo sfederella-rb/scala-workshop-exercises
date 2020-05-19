@@ -1,5 +1,8 @@
 # scala-workshop-exercises
 
-### Prerequisitos docker y ganas de hacer ejercicios.
+### Run and edit
 
-##### chmod a+x ./run-polynote.sh
+```shell
+$ chmod 777 -R notebooks
+$ ./run.sh
+```
